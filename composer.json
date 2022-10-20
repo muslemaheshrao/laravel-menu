@@ -16,11 +16,11 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "illuminate/auth": "^8.0|^9.0",
-        "illuminate/contracts": "^8.71|^9.0",
-        "illuminate/support": "^8.71|^9.0",
-        "spatie/menu": "^3.0"
+        "php" : "^7.0|^8.0",
+        "illuminate/auth": "~5.5.40|~5.6.0|~5.7.0",
+        "illuminate/contracts": "~5.5.40|~5.6.0|~5.7.0",
+        "illuminate/support": "~5.5.40|~5.6.0|~5.7.0",
+        "spatie/menu": "^2.2.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9",
